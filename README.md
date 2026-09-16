@@ -6,7 +6,7 @@
 
 ## Краткая схема алгоритма
 
-**TODO: при загрузке на git вставить сюда картинку img/Краткая схема алгоритма.jpg**
+<img width="1005" height="672" alt="Краткая схема алгоритма" src="https://github.com/user-attachments/assets/66b98cbc-f4d0-48f6-9fea-821d74207f62" />
 
 ## Требования к работе
 
@@ -66,4 +66,4 @@
 
 ## Схема алгоритма
 
-**TODO: при загрузке на git вставить сюда картинку img/Схема алгоритма.jpg**
+<img width="690" height="747" alt="Схема алгоритма" src="https://github.com/user-attachments/assets/f6309785-c1d2-4bb4-b0a2-3ccbd627a6b7" />
