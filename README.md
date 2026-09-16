@@ -4,7 +4,7 @@
 
 Проект **моноскопической визуальной одометрии** с использованием **четырёх камер**, расположенных по кругу (front, back, left, right) позволяет комплексно оценивать поворот и перемещение на коротких расстояниях с масштабированием в метрические координаты.
 
-<img width="1005" height="609" alt="Рисунок1-compressed (1)" src="https://github.com/user-attachments/assets/24e295d4-37c6-4759-9bc9-cc7356236b8b" />
+<img width="720" height="309" alt="Рисунок1-compressed (1)" src="https://github.com/user-attachments/assets/24e295d4-37c6-4759-9bc9-cc7356236b8b" />
 
 ## Краткая схема алгоритма
 
