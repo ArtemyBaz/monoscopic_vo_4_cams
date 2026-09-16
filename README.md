@@ -69,3 +69,5 @@
 ## Схема алгоритма
 
 <img width="690" height="747" alt="Схема алгоритма" src="https://github.com/user-attachments/assets/f6309785-c1d2-4bb4-b0a2-3ccbd627a6b7" />
+
+## Экспериментальное исследование
