@@ -75,7 +75,14 @@
 ## Экспериментальное исследование
 
 Схема эксперимента по точности определения координат робота
-<img width="638" height="287" alt="Рисунок4" src="https://github.com/user-attachments/assets/8dae16d9-8a2e-4cd4-9203-c84b51b6f03b" />
+<p align="center">
+<img width="347" height="270" alt="Рисунок2" src="https://github.com/user-attachments/assets/2fecec22-77da-4e02-a2d9-d559ddff4de7" />
+</p>
+
+Схема эксперимента по точности определения угла поворота
+<p align="center">
+<img width="419" height="423" alt="Рисунок5" src="https://github.com/user-attachments/assets/bc74c571-0ef2-4e6d-9eac-82d4048c1b4e" />
+</p>
 
 1. Оценка наличия и направления движения
 
@@ -85,17 +92,20 @@
 
 2. Диаграмма средних абсолютных ошибок при оценке прямолинейного движения на 100 см
 
-<img width="643" height="290" alt="Рисунок3" src="https://github.com/user-attachments/assets/afe47bc9-e9b0-4c56-97ff-96e3e4cdebcc" />
+<p align="center">
+<img width="643" height="290" alt="Рисунок3" src="https://github.com/user-attachments/assets/ca4d8264-6586-4f6d-8e0d-95accc4ed5be" />
+</p>
+
 
 3. Диаграмма средних абсолютных ошибок при оценке возвращения в исходную точку
 
-<img width="347" height="270" alt="Рисунок2" src="https://github.com/user-attachments/assets/cb05dbf7-e5eb-4be6-b164-4d7b1099591f" />
-
-Схема эксперимента по точности определения угла поворота
-
-<img width="419" height="423" alt="Рисунок5" src="https://github.com/user-attachments/assets/bc74c571-0ef2-4e6d-9eac-82d4048c1b4e" />
+<p align="center">
+<img width="638" height="287" alt="Рисунок4" src="https://github.com/user-attachments/assets/2c69ce09-069d-4f43-a1e1-72ac45c8bcfb" />
+</p>
 
 
 4. Диаграмма средних абсолютных ошибок при оценке поворота на 90 градусов для разработанного алгоритма и ORB-SLAM3
 
+<p align="center">
 <img width="826" height="366" alt="Рисунок6" src="https://github.com/user-attachments/assets/24d06831-d1c0-4441-942e-800b442b7770" />
+</p>
